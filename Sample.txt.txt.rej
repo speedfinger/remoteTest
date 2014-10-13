@@ -1,0 +1,7 @@
+diff a/Sample.txt.txt b/Sample.txt.txt	(rejected hunks)
+@@ -12,3 +12,4 @@
+ 
+ 추가내용6-브랜치1
+ 
++추가내용7-브랜치1
+\ No newline at end of file
